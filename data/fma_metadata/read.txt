@@ -1,0 +1,4 @@
+put fma metadata
+just tracks.csv is useful
+link: https://os.unil.cloud.switch.ch/fma/fma_metadata.zip
+(from https://github.com/mdeff/fma)

@@ -1,0 +1,3 @@
+put fma small here
+https://os.unil.cloud.switch.ch/fma/fma_small.zip
+(from https://github.com/mdeff/fma)
