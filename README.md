@@ -1,8 +1,7 @@
 # music genre classifcation
 
 ## Intro
-Use fma dataset for genre classification with different deep learning architecture like Vision Transformer (ViT) [`arXiv:2010.11929`][paper] and other CNN like resnet.
-[paper]: https://arxiv.org/abs/2010.11929
+Use fma dataset for genre classification with different deep learning architecture like Vision Transformer (ViT) [`arXiv:2010.11929`](https://arxiv.org/abs/2010.11929) and other CNN like resnet.
 
 
 
@@ -10,8 +9,7 @@ Use fma dataset for genre classification with different deep learning architectu
 see <https://github.com/mdeff/fma>
 
 ## Code 
-1. [`torch_transformer_classification.ipynb`]: preprocess dataset downsample sample to 22050 Hz and save them in .wav create and train transformeur
-[`torch_transformer_classification.ipynb`]:     https://nbviewer.jupyter.org/github/Julien-pour/music_classifcation/blob/main/torch_transformer_classification.ipynb
+1. [torch_transformer_classification.ipynb](https://nbviewer.jupyter.org/github/Julien-pour/music_classifcation/blob/main/torch_transformer_classification.ipynb) : preprocess dataset downsample sample to 22050 Hz and save them in .wav create and train transformeur
 2. need to clean others notebooks and merge them
 
 ## Usage
